@@ -33,6 +33,8 @@ This text will blink obnoxiously
 </wc-blink>
 ```
 
+***Demo: [WC-Blink - Demo][]***
+
 ### Styling
 
 Stying can be done using standard css attributes.
@@ -42,3 +44,5 @@ Stying can be done using standard css attributes.
 This will demonstrate the resplendent joy of HTML in its prime
 </wc-blink>
 ```
+
+[WC-Blink - Demo]: https://vanillawc.github.io/wc-blink/demo/index.html
