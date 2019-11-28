@@ -13,9 +13,11 @@
   "main": "src/wc-blink.js",
   "scripts": {
     "start": "npx live-server --open=demo",
+    "lint": "semistandard",
     "postversion": "git push --follow-tags"
   },
   "devDependencies": {
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.1",
+    "semistandard": "^14.2.0"
   }
 }

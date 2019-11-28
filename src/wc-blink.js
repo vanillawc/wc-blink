@@ -1,3 +1,4 @@
+/* eslint no-undef: 0 */
 const template = document.createElement('template');
 template.innerHTML = `
 <style>
@@ -32,13 +33,11 @@ template.innerHTML = `
 `;
 
 export class WCBlink extends HTMLElement {
-
-  constructor() {
+  constructor () {
     super();
-    this.attachShadow({mode: 'open'});
+    this.attachShadow({ mode: 'open' });
     this.shadowRoot.appendChild(document.importNode(template.content, true));
-  };
-
+  }
 }
 
 customElements.define('wc-blink', WCBlink);
