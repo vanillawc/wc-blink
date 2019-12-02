@@ -1,5 +1,3 @@
-<h1>WC-Blink</h1>
-
 [![GitHub release](https://img.shields.io/github/v/release/vanillawc/wc-blink.svg)](https://github.com/vanillawc/wc-blink/releases)
 [![npm](https://badgen.net/npm/v/@vanillawc/wc-blink)](https://www.npmjs.com/package/@vanillawc/wc-blink)
 [![downloads](https://badgen.net/npm/dt/@vanillawc/wc-blink)](https://www.npmjs.com/package/@vanillawc/wc-blink)
