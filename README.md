@@ -17,7 +17,7 @@ A Vanilla Web Component to ressurect the magnificent `<blink>` element
 npm i @vanillawc/wc-blink
 ```
 
-The package can be found in `node_modules/@vanillawc/wc-blink`.
+Then import the `index.js` file at the root of the package.
 
 -----
 
