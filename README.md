@@ -3,6 +3,7 @@
 [![downloads](https://badgen.net/npm/dt/@vanillawc/wc-blink)](https://www.npmjs.com/package/@vanillawc/wc-blink)
 [![Known Vulnerabilities](https://snyk.io/test/npm/@vanillawc/wc-blink/badge.svg)](https://snyk.io/test/npm/@vanillawc/wc-blink)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/vanillawc/wc-blink/master/LICENSE)
+[![Published on WebComponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/@vanillawc/wc-blink)
 [![Actions Status](https://github.com/vanillawc/wc-blink/workflows/Release/badge.svg)](https://github.com/vanillawc/wc-blink/actions)
 
 A Vanilla Web Component to ressurect the magnificent `<blink>` element
