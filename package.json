@@ -20,7 +20,6 @@
     "postversion": "git push --follow-tags"
   },
   "devDependencies": {
-    "live-server": "^1.2.1",
     "semistandard": "^14.2.0"
   }
 }
