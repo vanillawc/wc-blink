@@ -1,10 +1,10 @@
-[![GitHub release](https://img.shields.io/github/v/release/vanillawc/wc-blink.svg)](https://github.com/vanillawc/wc-blink/releases)
-[![npm](https://badgen.net/npm/v/@vanillawc/wc-blink)](https://www.npmjs.com/package/@vanillawc/wc-blink)
-[![downloads](https://badgen.net/npm/dt/@vanillawc/wc-blink)](https://www.npmjs.com/package/@vanillawc/wc-blink)
-[![Known Vulnerabilities](https://snyk.io/test/npm/@vanillawc/wc-blink/badge.svg)](https://snyk.io/test/npm/@vanillawc/wc-blink)
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/vanillawc/wc-blink/master/LICENSE)
+[![GitHub Releases](https://img.shields.io/github/v/release/vanillawc/wc-blink.svg)](https://github.com/vanillawc/wc-blink/releases)
+[![NPM Release](https://badgen.net/npm/v/@vanillawc/wc-blink)](https://www.npmjs.com/package/@vanillawc/wc-blink)
+[![Downloads](https://badgen.net/npm/dt/@vanillawc/wc-blink)](https://www.npmjs.com/package/@vanillawc/wc-blink)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/vanillawc/wc-blink/master/LICENSE)
 [![Published on WebComponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/@vanillawc/wc-blink)
-[![Actions Status](https://github.com/vanillawc/wc-blink/workflows/Release/badge.svg)](https://github.com/vanillawc/wc-blink/actions)
+[![Latest Status](https://github.com/vanillawc/wc-blink/workflows/Latest/badge.svg)](https://github.com/vanillawc/wc-blink/actions)
+[![Release Status](https://github.com/vanillawc/wc-blink/workflows/Release/badge.svg)](https://github.com/vanillawc/wc-blink/actions)
 
 A Vanilla Web Component to ressurect the magnificent `<blink>` element
 
