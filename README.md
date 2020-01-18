@@ -6,7 +6,7 @@
 [![Latest Status](https://github.com/vanillawc/wc-blink/workflows/Latest/badge.svg)](https://github.com/vanillawc/wc-blink/actions)
 [![Release Status](https://github.com/vanillawc/wc-blink/workflows/Release/badge.svg)](https://github.com/vanillawc/wc-blink/actions)
 
-A Vanilla Web Component to ressurect the magnificent `<blink>` element
+A Vanilla Web Component to resurrect the magnificent `<blink>` element
 
  <!-- TODO: Add video graphic here -->
 
@@ -32,11 +32,9 @@ This text will blink obnoxiously
 </wc-blink>
 ```
 
-***Demo: [WC-Blink - Demo][]***
-
 ### Styling
 
-Stying can be done using standard css attributes.
+Styling can be done using standard css attributes.
 
 ```html
 <wc-blink style="font-family: sans-serif;">
@@ -44,4 +42,8 @@ This will demonstrate the resplendent joy of HTML in its prime
 </wc-blink>
 ```
 
-[WC-Blink - Demo]: https://vanillawc.github.io/wc-blink/demo/index.html
+-----
+
+## Demo
+
+### [WC-Blink-Demo - WebComponents.dev](https://webcomponents.dev/edit/D0ALnJi8c1AoRh9JPJBS?sv=1&pm=1)
