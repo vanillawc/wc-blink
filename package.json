@@ -10,7 +10,7 @@
     "blink"
   ],
   "repository": "https://github.com/vanillawc/wc-blink/",
-  "main": "src/wc-blink.js",
+  "main": "index.js",
   "scripts": {
     "start": "npx live-server --no-browser --port=5500 --open=dev",
     "lint": "semistandard",
