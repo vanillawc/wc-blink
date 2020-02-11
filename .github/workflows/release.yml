@@ -44,7 +44,7 @@ jobs:
       uses: actions/checkout@master
     - name: Publish
       run: |
-        echo "//npm.pkg.github.com/:_authToken=${{ secrets.GH_AUTH_TOKEN }}" >> ~/.npmrc
+        echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" >> ~/.npmrc
         ORG="$(echo '${{ github.repository }}' | cut -d'/' -f1)"
         echo "registry=https://npm.pkg.github.com/$ORG" > .npmrc
         npm publish
