@@ -18,19 +18,18 @@ npm i @vanillawc/wc-blink
 ```
 
 *Import from NPM*
-```javascript
+```html
 <script type="module" src="node_modules/@vanillawc/wc-blink/index.js"></script>
 ```
 
 *Import from CDN*
-```javascript
+```html
 <script type="module" src="https://cdn.jsdelivr.net/gh/vanillawc/wc-blink/index.js"></script>
 ```
 
 ## Demo
 
 Try it on [WebComponents.dev](https://webcomponents.dev/edit/D0ALnJi8c1AoRh9JPJBS?sv=1&pm=1)
-
 
 ## Usage
 
