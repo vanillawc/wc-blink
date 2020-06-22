@@ -24,5 +24,10 @@
   "devDependencies": {
     "esmtk": "^0.1.1",
     "rollup-plugin-terser": "^5.2.0"
+  },
+  "standard": {
+    "ignore": [
+      "index.js"
+    ]
   }
 }

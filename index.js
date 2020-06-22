@@ -27,7 +27,7 @@ class WCBlink extends HTMLElement {
       }
       </style>
       <p class="blink" style="width: inherit;"><span><slot></slot></span></p>
-    `;
+    `
   }
 }
 
