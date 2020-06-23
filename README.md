@@ -1,4 +1,4 @@
-<h1 align="center">&lt;wc-blink&gt;: The Blink Tag as a Web Component</h1>
+<h1 align="center">&lt;wc-blink&gt; The Blink Tag as a Web Component</h1>
 
 <div align="center">
   <a href="https://github.com/vanillawc/wc-blink/releases"><img src="https://badgen.net/github/tag/vanillawc/wc-blink" alt="GitHub Releases"></a>
