@@ -1,14 +1,13 @@
-/* eslint no-undef: 0 */
+// src/wc-blink.js
 class WCBlink extends HTMLElement {
-  constructor () {
+  constructor() {
     super();
-    const template = document.createElement('template');
+    const template = document.createElement("template");
     template.innerHTML = WCBlink.template();
-    this.attachShadow({ mode: 'open' });
+    this.attachShadow({mode: "open"});
     this.shadowRoot.appendChild(document.importNode(template.content, true));
   }
-
-  static template () {
+  static template() {
     return `
       <style>
       .blink {
@@ -27,10 +26,10 @@ class WCBlink extends HTMLElement {
       }
       </style>
       <p class="blink" style="width: inherit;"><span><slot></slot></span></p>
-    `
+    `;
   }
 }
-
-customElements.define('wc-blink', WCBlink);
-
-export { WCBlink };
+customElements.define("wc-blink", WCBlink);
+export {
+  WCBlink
+};
