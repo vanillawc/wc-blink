@@ -1,5 +1,5 @@
 // src/wc-blink.js
-class WCBlink extends HTMLElement {
+var WCBlink = class extends HTMLElement {
   constructor() {
     super();
     const template = document.createElement("template");
@@ -28,7 +28,7 @@ class WCBlink extends HTMLElement {
       <p class="blink" style="width: inherit;"><span><slot></slot></span></p>
     `;
   }
-}
+};
 customElements.define("wc-blink", WCBlink);
 export {
   WCBlink
