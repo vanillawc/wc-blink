@@ -23,9 +23,10 @@ npm i @vanillawc/wc-blink
 <script type="module" src="[node_modules]/@vanillawc/wc-blink/index.js"></script>
 ```
 
-*Import from CDN*
+*Import from [SkyPack CDN](https://www.skypack.dev/view/@vanillawc/wc-blink)*
+
 ```html
-<script type="module" src="https://cdn.jsdelivr.net/gh/vanillawc/wc-blink@1/index.js"></script>
+<script type="module" src="https://cdn.skypack.dev/@vanillawc/wc-blink"></script>
 ```
 
 ## Demo
